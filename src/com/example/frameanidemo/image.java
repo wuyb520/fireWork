@@ -9,7 +9,6 @@ import android.widget.ImageView;
 public class OriginaFramelActivity extends Activity {
 
 	private static final String TAG = "original";
-
 	
 	<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
